@@ -1,6 +1,9 @@
 booth data url:
 https://torvid21.github.io/secret_test_omna/furality/Booth/data.json
 
+PC booth images are in "furality\Booth"
+mobile booth images are in "furality\Booth_mobile"
+art gallery images are in "furality\ArtGallery"
 
 9 pavillions
 ID order:
