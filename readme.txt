@@ -5,11 +5,18 @@ https://torvid21.github.io/secret_test_omna/furality/Booth/Booth_*.png
 Mobile booth images:
 https://torvid21.github.io/secret_test_omna/furality/Booth_mobile/Booth_*.png
 
+booth images are 2048x2408
+mobile booth images are 512x512
+
 
 gallery data url:
 https://torvid21.github.io/secret_test_omna/furality/gallery_data.json
 Art gallery images:
 https://torvid21.github.io/secret_test_omna/furality/ArtGallery/art_*.png
+
+gallery images are resized to have a *max* dimension of 2048
+mobile gallery images are resied to have a *max* dimension of 512
+
 
 
 9 pavillions
