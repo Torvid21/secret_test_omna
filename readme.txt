@@ -1,18 +1,26 @@
-booth data url:
+dealers json:
 https://torvid21.github.io/secret_test_omna/furality/booth_data.json
-PC booth images:
+dealer url:
 https://torvid21.github.io/secret_test_omna/furality/Booth/Booth_*.png
-Mobile booth images:
+dealer url mobile:
 https://torvid21.github.io/secret_test_omna/furality/Booth_mobile/Booth_*.png
+backwall url image:
+https://media.cdn.furality.online/dealers/f7/booth/*/backwall.png
+backwall url video:
+https://media.cdn.furality.online/dealers/f7/booth/*/backwall.mp4
+web link url:
+https://furality.online/explore/dealers?id=*
 
 booth images are 2048x2408
 mobile booth images are 512x512
 
 
-gallery data url:
+gallery json:
 https://torvid21.github.io/secret_test_omna/furality/gallery_data.json
-Art gallery images:
+gallery image url:
 https://torvid21.github.io/secret_test_omna/furality/ArtGallery/art_*.png
+gallery image url mobile
+https://torvid21.github.io/secret_test_omna/furality/ArtGallery_mobile/art_*.png
 
 gallery images are resized to have a *max* dimension of 2048
 mobile gallery images are resied to have a *max* dimension of 512
