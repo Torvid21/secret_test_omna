@@ -1,3 +1,5 @@
+'*' is replaced with the booth ID
+
 dealers json:
 https://torvid21.github.io/secret_test_omna/furality/booth_data.json
 dealer url:
