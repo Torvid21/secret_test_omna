@@ -13,7 +13,7 @@ https://media.cdn.furality.online/dealers/f7/booth/*/backwall.mp4
 web link url:
 https://furality.online/explore/dealers?id=*
 
-booth images are 2048x2408
+booth images are 2048x2048
 mobile booth images are 512x512
 
 
